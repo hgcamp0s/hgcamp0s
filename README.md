@@ -1,8 +1,10 @@
 ### Oi👋
-Seja bem-vindo(a) ao meu perfil! Meu nome é Hugo Campos, sou um entusiasta do desenvolvimento de software com experiência na área de programação. Sou apaixonado por explorar as possibilidades do ecossistema .NET e a linguagem C#.
+Seja bem-vindo(a) ao meu perfil! Meu nome é Hugo Campos e sou um entusiasta do desenvolvimento de software, especializado em .NET e C#. Atualmente, trabalho como suporte técnico na empresa Lm Informática.
 
-Nos últimos tempos, tenho me dedicado intensamente aos meus estudos nessa área fascinante. Tenho explorado a vasta gama de recursos e funcionalidades oferecidas pelo .NET Framework e estou constantemente aprimorando minhas habilidades em C#, uma linguagem elegante e poderosa.
+A Lm Informática é uma empresa que oferece um software completo para gestão comercial, com recursos de controle de estoque, financeiro e emissão de notas fiscais. Tenho a oportunidade de trabalhar com diferentes plataformas que a empresa oferece, como Lm Master, Mobility Gestão e Lm Smart NFe (sistema web).
 
-Além da minha paixão pela programação, também valorizo muito um estilo de vida saudável. Gosto de praticar musculação regularmente e fazer cardio logo ao acordar para manter meu corpo ativo e saudável. Sou adepto de uma dieta equilibrada e busco me alimentar de forma saudável para manter a energia necessária para os meus projetos e estudos.
+No meu papel como suporte técnico, dedico-me a ajudar os clientes a utilizar e solucionar problemas em todas essas plataformas. Tenho conhecimento aprofundado sobre os produtos da Lm Informática e estou sempre disponível para oferecer suporte técnico e garantir uma experiência positiva aos usuários.
 
-Fora do ambiente de trabalho, passo tempo de qualidade com minha família, pois valorizo muito esses momentos de convivência e fortalecimento dos laços familiares. Também gosto de sair com amigos, seja para um encontro descontraído ou para uma sessão de cinema, onde posso desfrutar de boas histórias e mergulhar em diferentes narrativas. Acompanhar séries é outra atividade que aprecio, pois me permite relaxar e me entreter com tramas envolventes.
+Além disso, continuo aprimorando minhas habilidades em programação e explorando o ecossistema .NET e a linguagem C#. Essa combinação de conhecimento técnico e experiência prática me permite compreender as necessidades dos clientes e oferecer soluções eficientes.
+
+Fora do trabalho, aproveito meu tempo livre com atividades físicas, momentos com minha família e amigos, além de desfrutar de filmes e séries para relaxar.
