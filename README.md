@@ -1,7 +1,7 @@
 ### Oi👋
 Seja bem-vindo(a) ao meu perfil! Meu nome é Hugo Campos, sou um entusiasta do desenvolvimento de software com experiência na área de programação. Sou apaixonado por explorar as possibilidades do ecossistema .NET e a linguagem C#.
 
-Nos últimos tempos, tenho me dedicado intensamente aos meus estudos nessa área fascinante. Além do .NET Framework e C#, também tenho conhecimento em outras tecnologias relacionadas, como ASP.NET, Entity Framework e SQL Server. Tenho utilizado essas ferramentas para desenvolver aplicações web robustas e escaláveis, sempre buscando as melhores práticas de programação e arquitetura.
+Nos últimos tempos, tenho me dedicado intensamente aos meus estudos nessa área fascinante. Tenho explorado a vasta gama de recursos e funcionalidades oferecidas pelo .NET Framework e estou constantemente aprimorando minhas habilidades em C#, uma linguagem elegante e poderosa.
 
 Além da minha paixão pela programação, também valorizo muito um estilo de vida saudável. Gosto de praticar musculação regularmente e fazer cardio logo ao acordar para manter meu corpo ativo e saudável. Sou adepto de uma dieta equilibrada e busco me alimentar de forma saudável para manter a energia necessária para os meus projetos e estudos.
 
