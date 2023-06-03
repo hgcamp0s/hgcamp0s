@@ -1,5 +1,5 @@
 ### Oi👋
-Seja bem-vindo(a) ao meu perfil! Meu nome é Hugo Campos e sou um entusiasta do desenvolvimento de software, especializado em .NET e C#. Atualmente, trabalho como suporte técnico na empresa Lm Informática.
+Seja bem-vindo(a) ao meu perfil! Meu nome é Hugo Campos, um apaixonado por desenvolvimento de software, com foco em .NET e C#. Atualmente, faço parte da equipe de suporte técnico na Lm Informática.
 
 A Lm Informática é uma empresa que oferece um software completo para gestão comercial, com recursos de controle de estoque, financeiro e emissão de notas fiscais. Tenho a oportunidade de trabalhar com diferentes plataformas que a empresa oferece, como Lm Master, Mobility Gestão e Lm Smart NFe (sistema web).
 
